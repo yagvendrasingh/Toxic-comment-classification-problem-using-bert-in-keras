@@ -12,4 +12,7 @@ There was two bert model used and the final prediction was the mean of both the 
 ### 1st rank( public score) :: 0.98856
 ### My sore (public score)  :: 0.98993
 
+### Refer to blog for detailed understanding:
+https://yagvendra-singh-52.medium.com/toxic-comment-classification-using-bert-keras-and-huggingface-surpassing-first-place-score-d9df922ea95d
+
 ## Note :: please Use Google Colab to see the notebook there are plots generated using Plotly and the output of graphs can not be seen in github Just "click" open in                colab on the top of ipython notebook             
