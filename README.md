@@ -6,7 +6,7 @@ TO solve this problem 3 experiments have been done In which different models was
 The first model was Random forest classifier which gives a Local AUC score On Validation data as 0.93 And at the leaderboard at private section it gave 0.95
 There was two bert model used and the final prediction was the mean of both the different bert model.
 
-## The final Score was surpassed the first place score on the leader board.
+## The final Score surpassed the first place score on the leader board.
 
 ### 1st rank( public score) :: 0.98856
 ### My sore (public score)  :: 0.98993
